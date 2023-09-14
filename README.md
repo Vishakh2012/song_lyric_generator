@@ -36,7 +36,7 @@ To get started with the Ed Sheeran Song Lyrics Generator on your local machine, 
 1. **Clone this repository to your local machine:**
 
 ```bash
-git clone https://github.com/your-username/ed-sheeran-lyrics-generator.git
+git clone https://github.com/your-username/sheeran_lyrics_generator.git
 cd ed-sheeran-lyrics-generator
 ```
 2.**Build the Docker image:**
